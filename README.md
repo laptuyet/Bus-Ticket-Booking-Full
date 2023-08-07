@@ -27,11 +27,13 @@ __FRONT-END CUSTOMER UI__
 
 ![Trip select 2](./pictures/trip_select_2.png)
 
+![seat select](./pictures/seat_select.png)
+
 ![Payment](./pictures/payment.png)
 
 ![TicketSearching](./pictures/ticket_search.png)
 
-__FRONT-END CUSTOMER UI__
+__FRONT-END ADMIN UI__
 
 ![dashboard](./pictures/aadmin_dashboard.png)
 
