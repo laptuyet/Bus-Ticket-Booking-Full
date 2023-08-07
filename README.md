@@ -19,7 +19,25 @@ __Back-end__: open IntelliJ, then File -> Open -> Choose the BusTicketBooking-Ba
 
 # Some demo pictures:
 
-FRONT-END CUSTOMER UI
+__FRONT-END CUSTOMER UI__
+
 ![Home page](./pictures/home_page.png)
 
+![Trip select 1](./pictures/trip_select_1.png)
+
+![Trip select 2](./pictures/trip_select_2.png)
+
+![Payment](./pictures/payment.png)
+
+![TicketSearching](./pictures/ticket_search.png)
+
+__FRONT-END CUSTOMER UI__
+
+![dashboard](./pictures/aadmin_dashboard.png)
+
+![user_manage](./pictures/user_manage.png)
+
+![delete user](./pictures/delete_user.png)
+
+![Role setup](./pictures/staff_role_setup.png)
 
