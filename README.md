@@ -19,6 +19,7 @@ __Back-end__: open IntelliJ, then File -> Open -> Choose the BusTicketBooking-Ba
 
 # Some demo pictures:
 
-
-## FRONT-END CUSTOMER UI
+FRONT-END CUSTOMER UI
 ![Home page](./pictures/home_page.png)
+
+
